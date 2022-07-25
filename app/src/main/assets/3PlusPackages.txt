@@ -1,0 +1,12 @@
+"com.whatsapp",
+"com.duolingo",
+"com.google.android.apps.youtube.kids",
+"com.telkomsel.telkomselcm",
+"com.ludo.king",
+"org.videolan.vlc",
+"mega.privacy.android.app",
+"com.telkom.mwallet",
+"com.shopee.id",
+"com.tokopedia.tkpd",
+"com.grabtaxi.passenger",
+"com.gojek.app"

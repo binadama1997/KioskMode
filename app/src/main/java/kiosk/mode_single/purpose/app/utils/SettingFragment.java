@@ -30,9 +30,13 @@ public class SettingFragment extends DialogFragment {
         Bundle bundle = getArguments();
         assert bundle != null;
         final boolean isLocked = bundle.getBoolean(LOCKED_BUNDLE_KEY);
+        final int status = !isLocked ? R.string.setting_unlock_device : R.string.setting_lock_device;
         final int btnText = isLocked ? R.string.setting_unlock_device : R.string.setting_lock_device;
         final TextView enterPassword = rootView.findViewById(R.id.enter_password);
+        TextView statusText = rootView.findViewById(R.id.status);
         Button dialogButton = rootView.findViewById(R.id.btn_lock_unlock);
+        String thisStatusText = String.format("%s%s", getString(R.string.status_title), getString(status));
+        statusText.setText(thisStatusText);
         dialogButton.setText(btnText);
         dialogButton.setOnClickListener(v -> {
             String text = enterPassword.getText().toString();

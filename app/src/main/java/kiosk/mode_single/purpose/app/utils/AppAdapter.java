@@ -1,4 +1,4 @@
-package kiosk.mode_single.purpose.app.ui;
+package kiosk.mode_single.purpose.app.utils;
 
 import android.content.Context;
 import android.view.LayoutInflater;
@@ -18,7 +18,7 @@ public class AppAdapter extends BaseAdapter {
     public List<AppList> listStorage;
 
     public AppAdapter(Context context, List<AppList> customizedListView) {
-        layoutInflater =(LayoutInflater)context.getSystemService(Context.LAYOUT_INFLATER_SERVICE);
+        layoutInflater = (LayoutInflater)context.getSystemService(Context.LAYOUT_INFLATER_SERVICE);
         listStorage = customizedListView;
     }
 

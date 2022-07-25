@@ -1,4 +1,4 @@
-package kiosk.mode_single.purpose.app.ui;
+package kiosk.mode_single.purpose.app.utils;
 
 import android.graphics.drawable.Drawable;
 

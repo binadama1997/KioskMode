@@ -15,5 +15,7 @@
     <string name="app_package_name">App Package Name</string>
     <string name="app_name_value">App Name</string>
     <string name="icon">Icon</string>
+    <string name="status_title">"Kiosk Mode : "</string>
+    <string name="list_of_allowed_apps">List of Allowed Apps</string>
 </resources>
 

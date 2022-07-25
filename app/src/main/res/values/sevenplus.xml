@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sevenplus">
+        <item>com.whatsapp</item>
+        <item>com.duolingo</item>
+        <item>com.google.android.apps.youtube.kids</item>
+        <item>com.telkomsel.telkomselcm</item>
+        <item>com.ludo.king</item>
+        <item>org.videolan.vlc</item>
+        <item>mega.privacy.android.app</item>
+        <item>com.telkom.mwallet</item>
+        <item>com.shopee.id</item>
+        <item>com.tokopedia.tkpd</item>
+        <item>com.grabtaxi.passenger</item>
+        <item>com.gojek.app"</item>
+    </string-array>
+</resources>

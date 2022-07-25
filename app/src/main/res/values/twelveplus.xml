@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="twelveplus">
+        <item>"com.whatsapp",</item>
+        <item>com.duolingo</item>
+        <item>com.google.android.apps.youtube.kids</item>
+        <item>com.telkomsel.telkomselcm</item>
+        <item>com.ludo.king</item>
+        <item>org.videolan.vlc</item>
+        <item>mega.privacy.android.app</item>
+        <item>com.telkom.mwallet</item>
+        <item>com.shopee.id</item>
+        <item>com.tokopedia.tkpd</item>
+        <item>com.grabtaxi.passenger</item>
+        <item>com.gojek.app</item>
+        <item>com.spotify.music</item>
+        <item>com.ss.android.ugc.trill</item>
+        <item>com.google.android.youtube</item>
+        <item>com.facebook.katana</item>
+        <item>com.instagram.android</item>
+        <item>org.telegram.messenger</item>
+        <item>us.zoom.videomeetings</item>
+        <item>com.discord</item>
+        <item>com.reddit.frontpage</item>
+        <item>com.linkedin.android</item>
+    </string-array>
+</resources>
